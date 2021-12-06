@@ -5,8 +5,11 @@
 
 ## IDEA配置
 ###LeetCode Editor插件配置
+
 插件地址：https://plugins.jetbrains.com/plugin/12132-leetcode-editor
+
 使用教程：https://github.com/shuzijun/leetcode-editor/blob/master/README_ZH.md
+
 - 进入IDEA插件窗口，搜索LeetCode Editor并安装
 - 配置LeetCode
   
